@@ -1,0 +1,45 @@
+.central_block{
+    max-width: 1250px; margin: auto;
+}
+.central_block1{
+    max-width: 1000px; margin: auto;
+}
+header{
+    background: brown; height: 40px; position: absolute; width: 100%;
+}
+section{
+    background: url("../images/title.png") no-repeat;background-size: cover; padding-top: 125px;
+}
+.unique{ display: flex; background: brown; height: 75px;
+    position: relative; top:60px; max-width: 440px; align-items: center;
+}
+.unique img{
+    height: 150px; width: 150px; position: relative; left: -50px;
+}
+article{
+    background: white; position: relative; bottom: -50px;
+}
+.unique p{
+     padding: 10px 5px;
+}
+h2{
+    background: brown; color: white; padding: 10px 10px;
+}
+iframe{
+    padding: 50px 100px;
+}
+article p {
+    max-width: 750px; padding: 0 125px;
+}
+article div{
+    background: brown; max-width: none;
+}
+footer{
+    background: black; height: 150px;
+}
+article div p{
+    position: relative; top: -50px;
+}
+.first{
+    background: white;
+}
