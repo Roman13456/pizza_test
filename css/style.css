@@ -26,7 +26,7 @@ h2{
     background: brown; color: white; padding: 10px 10px;
 }
 iframe{
-    padding: 50px 100px;
+    padding: 50px 100px 150px;
 }
 article p {
     max-width: 750px; padding: 0 125px;
@@ -42,4 +42,12 @@ footer{
 }*/
 .first{
     background: white;
+}
+.brown{
+    background: brown;
+}
+.unusual{
+    max-width: 750px; margin: auto; padding: 0 125px 150px; background: white;
+    position: relative;
+    top: -100px;
 }
