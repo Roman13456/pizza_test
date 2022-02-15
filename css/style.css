@@ -35,7 +35,7 @@ article div{
     background: brown; max-width: none;
 }
 footer{
-    background: black; height: 150px;
+    background: black; height: 400px; position: relative; top: -10px;
 }
 /*article div p{
     position: relative; top: -50px;
