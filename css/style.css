@@ -17,7 +17,7 @@ section{
     height: 150px; width: 150px; position: relative; left: -50px;
 }
 article{
-    background: white; position: relative; bottom: -50px;
+    background: white; position: relative; bottom: -50px; padding-bottom: 50px;
 }
 .unique p{
      padding: 10px 5px;
@@ -37,9 +37,9 @@ article div{
 footer{
     background: black; height: 150px;
 }
-article div p{
+/*article div p{
     position: relative; top: -50px;
-}
+}*/
 .first{
     background: white;
 }
