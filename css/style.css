@@ -14,7 +14,7 @@ section{
     position: relative; top:60px; max-width: 440px; align-items: center;
 }
 .unique img{
-    height: 150px; width: 150px; position: relative; left: -50px;
+    height: 150px; width: 150px;
 }
 article{
     background: white; position: relative; bottom: -50px; padding-bottom: 50px;
@@ -35,7 +35,7 @@ article div{
     background: brown; max-width: none;
 }
 footer{
-    background: black; height: 400px; position: relative; top: -160px;
+    background: black; height: 400px; margin-top: -160px;
 }
 
 .first{
